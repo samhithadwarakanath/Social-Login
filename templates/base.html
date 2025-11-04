@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <title>Social Login</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: sans-serif; background: #f4f4f4; }
+    .container { max-width: 600px; margin: 40px auto; background: white; padding: 20px; border-radius: 10px; }
+    .btn { display: inline-block; padding: 10px 15px; border-radius: 6px; text-decoration: none; color: white; }
+    .google { background: #db4437; }
+    .topbar { background: #222; color: white; padding: 10px 20px; }
+    .flash { background: #ffe9b5; padding: 8px; border-radius: 5px; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <div class="topbar">Social Media Login Service</div>
+  <div class="container">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="flash">{{ message }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
+  </div>
+</body>
+</html>

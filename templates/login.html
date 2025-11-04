@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+  {% if not user %}
+    <h2>Login</h2>
+    <p>Choose a provider:</p>
+    <a class="btn google" href="{{ url_for('login_google') }}">Login with Google</a><br><br>
+    <a class="btn" href="{{ url_for('login_linkedin') }}" style="background:#0077B5;">Login with LinkedIn</a>
+  {% else %}
+    <p>You are logged in as {{ user.name }} ({{ user.email }})</p>
+    <p><a href="{{ url_for('profile') }}">Go to profile</a></p>
+    <p><a href="{{ url_for('logout') }}">Logout</a></p>
+  {% endif %}
+{% endblock %}
