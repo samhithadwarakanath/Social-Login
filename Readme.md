@@ -198,6 +198,23 @@ OAUTH_REDIRECT_HOST=localhost:5000
 ```
 
 
----
+Screenshots of the flow:
+Google:
+<img width="1707" height="979" alt="Screenshot 2025-11-04 at 11 17 51 PM" src="https://github.com/user-attachments/assets/3deac68e-adb7-4880-a526-55c62d26ae5c" />
+<img width="1392" height="840" alt="Screenshot 2025-11-04 at 11 18 08 PM" src="https://github.com/user-attachments/assets/dfe506a9-b893-4721-b636-1e5423e82da5" />
+<img width="1615" height="875" alt="Screenshot 2025-11-04 at 11 20 39 PM" src="https://github.com/user-attachments/assets/1d48d6fb-dea6-4894-9a8c-ad547b4449a4" />
+<img width="1651" height="915" alt="Screenshot 2025-11-04 at 11 20 54 PM" src="https://github.com/user-attachments/assets/d1465607-4f4d-4d14-b099-ed2968c71e4b" />
+<img width="1710" height="724" alt="Screenshot 2025-11-04 at 11 22 21 PM" src="https://github.com/user-attachments/assets/0365abc9-f9d0-427e-878e-7cd44ee2f742" />
+<img width="1709" height="684" alt="Screenshot 2025-11-04 at 11 19 07 PM" src="https://github.com/user-attachments/assets/c654100e-927d-4c51-b036-ee94527911ec" />
 
-If you hit any issues while following these instructions, tell me the exact error message or paste the Flask logs and I’ll help troubleshoot further.
+
+LinkedIn:
+<img width="1707" height="979" alt="Screenshot 2025-11-04 at 11 17 51 PM" src="https://github.com/user-attachments/assets/3deac68e-adb7-4880-a526-55c62d26ae5c" />
+<img width="1709" height="684" alt="Screenshot 2025-11-04 at 11 19 07 PM" src="https://github.com/user-attachments/assets/d27ba9ca-315a-414e-b08a-7fa4f7fa63f9" />
+<img width="1709" height="834" alt="Screenshot 2025-11-04 at 11 19 39 PM" src="https://github.com/user-attachments/assets/29e8e3ad-8129-4c22-863c-6c7bb90b35f5" />
+
+
+
+
+
+
