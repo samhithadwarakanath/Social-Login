@@ -210,8 +210,8 @@ Google:
 
 LinkedIn:
 <img width="1707" height="979" alt="Screenshot 2025-11-04 at 11 17 51 PM" src="https://github.com/user-attachments/assets/3deac68e-adb7-4880-a526-55c62d26ae5c" />
-<img width="1709" height="684" alt="Screenshot 2025-11-04 at 11 19 07 PM" src="https://github.com/user-attachments/assets/d27ba9ca-315a-414e-b08a-7fa4f7fa63f9" />
-<img width="1709" height="834" alt="Screenshot 2025-11-04 at 11 19 39 PM" src="https://github.com/user-attachments/assets/29e8e3ad-8129-4c22-863c-6c7bb90b35f5" />
+<img width="2312" height="1500" alt="image" src="https://github.com/user-attachments/assets/1dc5953b-fed4-4986-a227-1910eeca2ea1" />
+<img width="3418" height="1668" alt="image" src="https://github.com/user-attachments/assets/fde68853-c273-4786-a350-8430b8a7c44f" />
 
 
 
